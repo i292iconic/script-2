@@ -1,2 +1,2 @@
-# script-2
+# script2
 free
